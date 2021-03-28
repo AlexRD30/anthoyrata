@@ -1,0 +1,10 @@
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\bin\Debug\Calculo de Nomina.exe.config
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\obj\Debug\Calculo_de_Nomina.Form1.resources
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\obj\Debug\Calculo_de_Nomina.Resources.resources
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\obj\Debug\Calculo de Nomina.vbproj.GenerateResource.Cache
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\bin\Debug\Calculo de Nomina.exe
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\bin\Debug\Calculo de Nomina.pdb
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\bin\Debug\Calculo de Nomina.xml
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\obj\Debug\Calculo de Nomina.exe
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\obj\Debug\Calculo de Nomina.xml
+C:\Users\yordy gomexz\Documents\Visual Studio 2012\Projects\Calculo de Nomina\Calculo de Nomina\obj\Debug\Calculo de Nomina.pdb
